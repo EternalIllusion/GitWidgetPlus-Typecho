@@ -16,6 +16,12 @@ Github使用的是对[JoelSutherland/GitHub-jQuery-Repo-Widget](https://github.c
 [gitwidget type='github' url='JoelSutherland/GitHub-jQuery-Repo-Widget']
 ```
 相关CSS样式可以在插件配置里修改。
+# Preview预览
+## 宽屏幕下
+![宽屏预览](https://github.com/EternalIllusion/GitWidgetPlus-Typecho/blob/main/pv2.png?raw=true "宽屏预览")
+## 窄屏幕下
+![窄屏预览](https://github.com/EternalIllusion/GitWidgetPlus-Typecho/blob/main/pv1.png?raw=true "窄屏预览")
+
 
 # Install安装
 克隆整个项目后把文件夹改名GitWidget塞进你typecho网站的`/usr/plugins`
